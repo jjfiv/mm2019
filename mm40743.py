@@ -1,1 +1,2 @@
-print("this is a test")
+def yell(message):
+    print(message.upper())
