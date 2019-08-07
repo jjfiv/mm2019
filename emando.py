@@ -4,8 +4,6 @@ print("now I am typing up here")
 print("changing this to cause merge conflict")
 # This is the main program:
 def main():
-    print("i am editing at the top")
-    print('PUT YOUR ANSWER IN QUOTES PLS')
     user_input = input("Congrats!!! you went to the gym! how do you feel?")
     print('hi there')
     print("i think we're going to have a merge conflict")
