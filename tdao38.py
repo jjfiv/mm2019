@@ -1,4 +1,5 @@
-# Hello Amy!! 
+#FRIDAY!!!
+# Hello Amy!!
 import sys
 from typing import List
 #adding comments about the functions
