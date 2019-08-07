@@ -1,6 +1,8 @@
 import sys
+
 print("THIS IS MY LINE. MWAHAHA ")
 print("now I am typing up here")
+print("changing this to cause merge conflict")
 # This is the main program:
 def main():
     print("i am editing at the top")
@@ -11,7 +13,9 @@ def main():
 
 if __name__ == '__main__':
   main()
-print("MWAHAHAHHAHAHA")
+
+print("This is a win")
+
 def hey():
     print("What will happen")
     print("No clue")
