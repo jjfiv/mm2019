@@ -7,5 +7,5 @@ def print_in_block(message):
   print(message)
   print("="*40)
 
-print_in_block("Hello!")
-print_in_block("Books!")
+print_in_block("knock knock!")
+print_in_block("who's there?")
