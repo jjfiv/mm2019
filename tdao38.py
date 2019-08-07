@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# adding comments here 
-=======
 # Hello Amy!! 
->>>>>>> 932e967b7ba56cb194b5151f1039eb980c86de2d
 import sys
 from typing import List
-#adding comments about the functions 
+#adding comments about the functions
 # This is the main program:
 def main(args: List[str]):
 
