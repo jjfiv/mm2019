@@ -1,6 +1,7 @@
 import sys
 from typing import List
 
+"my script"
 # This is the main program:
 
 
@@ -11,6 +12,7 @@ for arg in args:
 
    """
    prints a message fancy
+
    """
 
   or else print instructions
