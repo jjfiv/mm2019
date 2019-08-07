@@ -1,3 +1,26 @@
+
+print('i wanna a merge conflict')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import sys
 print("THIS IS MY LINE. MWAHAHA ")
 print("now I am typing up here")
