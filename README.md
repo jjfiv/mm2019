@@ -1,4 +1,4 @@
-# smith-gitbot
+# mm2019-gitbot
 A bot that must have the last word makes for a decent git tutorial.
 
 ## Independent Working Instructions:
