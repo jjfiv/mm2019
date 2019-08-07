@@ -1,5 +1,5 @@
 # mm2019-gitbot
-A bot that must have the last word makes for a decent git tutorial.
+A bot that must have the last word makes for a decent git tutorial. Not always on.
 
 ## Independent Working Instructions:
 
