@@ -1,6 +1,7 @@
+# Hello Amy!! 
 import sys
 from typing import List
-#adding comments about the functions
+#adding comments about the functions 
 # This is the main program:
 def main(args: List[str]):
 
