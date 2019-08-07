@@ -1,9 +1,15 @@
 
-name=input("What's your name?")
-print("(HELLO", name)
+import time
 
-print("I'm Anisha.")
-
+name=input("What's your name?\n")
+time.sleep(1)
+print("HELLO", name)
+time.sleep(1)
+print("Nice to meet you. I'm Anisha.")
+time.sleep(1)
+feel=input("How are you today?\n")
+time.sleep(1)
+print("Glad to hear you're feeling", feel, "today!")
 # import sys
 # from typing import List
 #
@@ -18,5 +24,5 @@ print("I'm Anisha.")
 #   if len(args) == 0:
 #     print("Try this script with arguments!")
 #
-if __name__ == '__main__':
-    main(sys.argv[1:])
+# if __name__ == '__main__':
+#     main()
