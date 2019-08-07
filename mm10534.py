@@ -5,11 +5,13 @@ name=input("What's your name?\n")
 time.sleep(1)
 print("HELLO", name)
 time.sleep(1)
-print("Nice to meet you. I'm Anisha.")
+print("I'm Anisha.")
 time.sleep(1)
 feel=input("How are you today?\n")
 time.sleep(1)
 print("Glad to hear you're feeling", feel, "today!")
+time.sleep(1)
+print("Anyway in a rush g2g nice meeting you!")
 # import sys
 # from typing import List
 #
