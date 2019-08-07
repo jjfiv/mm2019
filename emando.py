@@ -10,7 +10,7 @@ def main():
 
 if __name__ == '__main__':
   main()
-
+print("MWAHAHAHHAHAHA")
 def hey():
     print("What will happen")
     print("No clue")
