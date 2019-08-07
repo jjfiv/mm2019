@@ -1,5 +1,6 @@
 import sys
 from typing import List
+import numpy
 
 # This is the main program:
 def main(args: List[str]):
