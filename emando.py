@@ -1,5 +1,4 @@
 import sys
-
 print("THIS IS MY LINE. MWAHAHA ")
 print("now I am typing up here")
 print("changing this to cause merge conflict")
@@ -10,13 +9,14 @@ def main():
     print('hi there')
     print("i think we're going to have a merge conflict")
     print("maybe we don't")
+    print("What will happen")
+    print("No clue")
+    print("Hope I typed in the correct spot")
+
 
 if __name__ == '__main__':
   main()
 
 print("This is a win")
 
-def hey():
-    print("What will happen")
-    print("No clue")
-    print("Hope I typed in the correct spot")
+print(user_input)
